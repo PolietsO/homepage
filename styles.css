@@ -261,3 +261,11 @@ body {
 .additional-info__languages-item {
     color: var(--secondary-text-color);
 }
+.secret{
+    position: absolute;
+    text-decoration: none;
+    top: 0;
+    right: 0;
+    color: rgba(0, 0, 0, 0.2);
+    font-size: 10px;
+}
